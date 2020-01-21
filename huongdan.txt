@@ -1,0 +1,2 @@
+chay bang localhost
+tao file firebase-messaging-sw.js de o thu muc root
